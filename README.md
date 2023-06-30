@@ -1,6 +1,14 @@
 # OpenCV
 練習&amp;實作_OpenCV
 
+## 練習 車牌辨識1-1
+利用 Google Cloud Vision API 在圖像上繪製檢測到的文字
+
+
+## 練習 車牌辨識1-2
+辨識圖片裡的車牌號碼,並將車牌框起來
+
+
 ## 練習 2-2
 在一個  512∗512∗3的黑色畫布上, 利用畫圓的函數 cv2.circle, for loop 和亂數以畫布中心為圓心, 畫出 12 等距同心圓, 12 同心圓RGB顏色隨機變換, 每次不一樣。
 ![circle2-1](https://github.com/Penny3939/OpenCV/assets/125810833/ed7c3c87-6342-41ad-afd7-536d506d2572)
