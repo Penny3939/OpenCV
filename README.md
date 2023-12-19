@@ -3,10 +3,14 @@
 
 ## 練習 車牌辨識1-1
 利用 Google Cloud Vision API 在圖像上繪製檢測到的文字
+![car](https://github.com/Penny3939/OpenCV/assets/125810833/92103f76-7f1e-4e76-ad04-bee17c782a04)
 
 
 ## 練習 車牌辨識1-2
 辨識圖片裡的車牌號碼,並將車牌框起來
+![car01](https://github.com/Penny3939/OpenCV/assets/125810833/2049a762-ad0b-464a-8b5b-33e24f592e91)
+![car02](https://github.com/Penny3939/OpenCV/assets/125810833/4d814d53-401b-421b-81d6-fb535ddb89b4)
+
 
 
 ## 練習 2-2
