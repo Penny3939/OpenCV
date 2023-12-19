@@ -8,6 +8,8 @@
 
 ## 練習 車牌辨識1-2
 辨識圖片裡的車牌號碼,並將車牌框起來
+
+
 ![car01](https://github.com/Penny3939/OpenCV/assets/125810833/2049a762-ad0b-464a-8b5b-33e24f592e91)
 ![car02](https://github.com/Penny3939/OpenCV/assets/125810833/4d814d53-401b-421b-81d6-fb535ddb89b4)
 
